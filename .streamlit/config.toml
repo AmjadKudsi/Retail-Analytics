@@ -1,0 +1,11 @@
+[theme]
+
+primaryColor = "#fbbf24"                # Amber (golden yellow)
+
+backgroundColor = "#18181b"             # Very dark gray
+
+secondaryBackgroundColor = "#27272a"    # Slightly lighter dark gray
+
+textColor = "#fafaf9"                   # Near-white
+
+font = "sans serif"
